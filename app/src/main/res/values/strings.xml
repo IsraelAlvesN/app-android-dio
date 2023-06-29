@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">first-app-dio</string>
+    <string name="string_hello_dio">Ola italiano</string>
+</resources>
